@@ -38,7 +38,7 @@ html {
     display: flex;
     align-items: center;
     padding: .5rem 3.75rem;
-    background-color: orange;
+    background-color: #ff8000;
   }
   
   header .logo-small {
@@ -151,7 +151,7 @@ html {
     margin-bottom: 2.4375rem;
     line-height: 1;
     font-size: 2rem;
-    color: orange;
+    color: #ff8000;
   }
   
   #color-guide .color {
@@ -482,7 +482,7 @@ html {
   footer .button {
     padding: 1.25rem 3.75rem;
     border-radius: 4px;
-    background-color: orange;
+    background-color: #ff8000;
   }
   
   @media only screen and (max-width: 560px) {
