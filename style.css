@@ -111,7 +111,7 @@ html {
     padding-bottom: 1.25rem;
     font-family: "Creepster", cursive;
     font-size: 8rem;
-  
+    color: rgba(0, 0, 0, 0.7)
   }
   
   #banner p {
